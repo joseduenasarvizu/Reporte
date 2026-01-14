@@ -1,9 +1,10 @@
 {
-  "name": "Reportes Ejecutivos",
-  "short_name": "Reportes",
-  "start_url": "index.html",
+  "name": "Reporte Ejecutivo",
+  "short_name": "Reporte",
+  "start_url": "/Reporte/",
+  "scope": "/Reporte/",
   "display": "standalone",
-  "background_color": "#FFFFFF",
+  "background_color": "#ffffff",
   "theme_color": "#003366",
   "icons": [
     {
